@@ -9,5 +9,6 @@
 
 >  ‘Learning is unifying seemingly divergent ideas and data.’ –Terry Heick
 
+I hope you like it here!
 
 
