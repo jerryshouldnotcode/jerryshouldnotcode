@@ -6,7 +6,7 @@
 
 Senior @ [USF](http://usf.edu/), studying Applied Mathematics and minoring in Psychology. 
 
-DS/SWE/math hybrid; open to hiring for any of those roles.
+Currently positioning for backend/data-heavy engineering roles.
 
 ### 🛠️ Tools I Use ###
 <p align="left">
@@ -29,7 +29,7 @@ DS/SWE/math hybrid; open to hiring for any of those roles.
 - got a grant; applying data science methods as an author on a psycholinguistics manuscript
 - fused math, programming, and physics to investigate reconstructing geometry from sound waves
 
-### 🌱 What I'm Currently Learning ### 
-- the mathematics of linear regression
-- deepening R skills, learning Julia
-- basic audio signal processing techniques
+### 🌱 What I'm Currently Doing ### 
+- implementing my own shell and grep functionality in Python
+- prepping DSA and concepts for backend engineering roles
+- iterating on my lab's data processing pipeline for deconvolution
