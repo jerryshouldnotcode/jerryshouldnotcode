@@ -1,7 +1,7 @@
 ## Hello, I'm Jeremiah 👋 🇳🇬
 
 <div style = "overflow:hidden">
-  <img src= /ascii-art-png.png width=400px margin=auto height=auto align="left" />
+  <img src= /ascii-art-png.png width=350px margin=auto height=auto align="left" />
 </div>
 
 Senior @ [USF](http://usf.edu/), studying Applied Mathematics and minoring in Psychology. 
