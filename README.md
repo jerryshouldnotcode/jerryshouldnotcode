@@ -10,7 +10,7 @@ Currently positioning for backend/data-heavy engineering roles.
 
 ### 🛠️ Tools I Use ###
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,postgres,redis,matlab,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,postgres,redis,matlab,aws,gcp" width="300px" />
 </p>
 
 ### ⚡ Some Highlights ###
