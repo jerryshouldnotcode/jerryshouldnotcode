@@ -19,6 +19,6 @@ Currently positioning for backend/data-heavy engineering roles.
 - fused math, programming, and physics to investigate reconstructing geometry from sound waves
 
 ### 🌱 What I'm Currently Doing ### 
-- implementing my own shell and grep functionality in Python
+- writing and adding new features to the blog
 - prepping DSA and concepts for backend engineering roles
-- iterating on my lab's data processing pipeline for deconvolution
+- figuring out what's next after graduation :D
