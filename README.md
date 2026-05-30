@@ -4,7 +4,7 @@
   <img src= /ascii-art-png.png width=350px margin=auto height=auto align="left" />
 </div>
 
-Senior @ [USF](http://usf.edu/), studying Applied Mathematics and minoring in Psychology. 
+New Grad from [USF](http://usf.edu/), Applied Mathematics, Psychology Minor. 
 
 Currently positioning for backend/data-heavy engineering roles.
 
